@@ -1,24 +1,10 @@
-# clock
+# Calculator
 
-## Project setup
-```
-npm install
-```
+css transform 來旋轉圖，實現時鐘效果。
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+## Skill
 
-### Compiles and minifies for production
-```
-npm run build
-```
+- vue
+- regex
 
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+## Demo
